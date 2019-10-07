@@ -1,0 +1,12 @@
+IN a 
+sto 98
+IN b
+sto 99
+sub 98 b-a
+brp 09 if b>a
+lda 98
+out a
+hlt
+lda 99
+out b 
+hlt

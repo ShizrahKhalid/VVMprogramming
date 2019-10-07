@@ -1,0 +1,11 @@
+IN a
+brz 05 if a == 0
+sto 98 
+sub 99 
+brp 06 if a > 5
+hlt
+lda 98
+out
+hlt
+*99
+DAT 005

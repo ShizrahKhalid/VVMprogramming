@@ -1,0 +1,7 @@
+IN
+Sto 98
+IN
+Sto 99
+Lda 98
+SUB 99
+OUT

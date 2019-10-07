@@ -1,0 +1,8 @@
+lda 98
+Add 99
+out 
+hlt
+*98
+dat 022
+*99
+dat 077
