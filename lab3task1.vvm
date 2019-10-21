@@ -1,0 +1,20 @@
+in a
+sto 20
+sto 21
+out
+lda 97
+sub 98
+brz 15
+lda 98
+add 99
+sto 98
+lda 20
+add 21
+sto 20
+out
+br 04
+hlt
+*97
+dat 010
+dat 001
+dat 001
